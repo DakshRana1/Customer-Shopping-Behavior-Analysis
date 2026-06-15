@@ -92,10 +92,9 @@ Created an interactive Power BI dashboard featuring:
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot here:
+dashboard screenshot here:
 
-```markdown
-![Dashboard](images/dashboard.png)
+![image](https://github.com/DakshRana1/Customer-Shopping-Behavior-Analysis/blob/main/Screenshot%202026-06-15%20170635.png?raw=true)
 
 
 
