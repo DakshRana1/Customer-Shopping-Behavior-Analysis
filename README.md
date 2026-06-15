@@ -123,6 +123,10 @@ Add your dashboard screenshot here:
 
 ```markdown
 ![Dashboard](images/dashboard.png)
+
+
+
+
 🚀 How to Run the Project
 Clone Repository
 git clone https://github.com/DakshRana1/Customer-Shopping-Behavior-Analysis.git
@@ -147,10 +151,7 @@ Data Storytelling
 
 Daksh Rana
 
-B.Sc. Data Science Student | Aspiring Data Analyst
-
 Connect with Me
-GitHub: DakshRana1 GitHub
-⭐ If you found this project useful, please consider giving it a Star!
+GitHub: [DakshRana1 GitHub](https://github.com/DakshRana1)
 
-This version looks professional and is suitable for internships, data analyst portfolios, and GitHub recruiters.
+⭐ If you found this project useful, please consider giving it a Star!
