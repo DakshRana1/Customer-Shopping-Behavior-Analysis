@@ -77,33 +77,6 @@ Created an interactive Power BI dashboard featuring:
 - Subscription Analysis
 - Purchase Frequency Insights
 
----
-
-## 📂 Project Structure
-
-
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│ └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│ └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── sql/
-│ └── customer_shopping_behavior.sql
-│
-├── dashboard/
-│ └── Customer_Behavior_Dashboard.pbix
-│
-├── reports/
-│ └── Project_Report.pdf
-│
-├── images/
-│ └── dashboard.png
-│
-└── README.md
-
 
 ---
 
